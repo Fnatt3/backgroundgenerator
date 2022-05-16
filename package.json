@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fnatt3/backgroundgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fnatt3/backgroundgenerator/issues"
+  },
+  "homepage": "https://github.com/Fnatt3/backgroundgenerator#readme"
+}
